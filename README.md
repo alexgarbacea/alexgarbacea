@@ -13,6 +13,8 @@ Software engineer focused on building practical, clean, and scalable products. F
 
 ## Current Projects
 
+🤖 **[Automate AI](https://automate-ai.xyz/)** - AI-Powered PC Automation Assistant - [[Releases](https://github.com/alexgarbacea/automate-ai-releases)]
+
 🧰 **[oblio-manager](https://github.com/alexgarbacea/oblio-manager)** - Full-stack Next.js + TypeScript application for managing invoices and fiscal documents via external APIs.
 
 📈 **[nginx-monitor](https://github.com/alexgarbacea/nginx-monitor)** - One-command setup for NGINX monitoring using Prometheus, Grafana, and exporters.
