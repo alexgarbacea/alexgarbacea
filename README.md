@@ -13,6 +13,8 @@ Software engineer focused on building practical, clean, and scalable products. F
 
 ## Current Projects
 
+✴️ **[claude-code-on-the-go](https://github.com/alexgarbacea/claude-code-on-the-go)** - A Telegram bot for Claude Code. Control Claude Code sessions from your phone via Telegram.
+
 🤖 **[Automate AI](https://automate-ai.xyz/)** - AI-Powered PC Automation Assistant - [[Releases](https://github.com/alexgarbacea/automate-ai-releases)]
 
 🧰 **[oblio-manager](https://github.com/alexgarbacea/oblio-manager)** - Full-stack Next.js + TypeScript application for managing invoices and fiscal documents via external APIs.
