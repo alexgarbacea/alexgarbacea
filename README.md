@@ -11,7 +11,9 @@
 
 Software engineer focused on building practical, clean, and scalable products. From full-stack SaaS apps to developer tools and infrastructure automation.
 
-## Current Projects
+---
+
+## Current Exciting Projects
 
 ✴️ **[claude-code-on-the-go](https://github.com/alexgarbacea/claude-code-on-the-go)** - A Telegram bot for Claude Code. Control Claude Code sessions from your phone via Telegram.
 
@@ -29,6 +31,22 @@ Software engineer focused on building practical, clean, and scalable products. F
 
 🧮 **[investment-calculator](https://github.com/alexgarbacea/investment-calculator)** - Simple investment and compound interest calculator focused on clarity and correctness.
 
+
+---
+
+## Plugins & Packages
+
+📦 **[NPM Packages](https://www.npmjs.com/~alexgarbacea)** - Published JavaScript and TypeScript packages focused on automation, tooling, and reusable developer infrastructure.
+
+🔌 **[WordPress Plugins](https://profiles.wordpress.org/alexgarbacea/)** - Custom WordPress plugins I developed.
+
+---
+
+## Writing & Portfolio
+
+📝 **[Articles](https://blog.addpipe.com/author/alexandru)** - Technical deep dive articles written by me.
+
+🌐 **[Portfolio](https://alexgarbacea.github.io/portfolio-v2/)** - My portfolio website.
 
 ---
 
