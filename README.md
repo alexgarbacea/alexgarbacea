@@ -15,6 +15,8 @@ Software engineer focused on building practical, clean, and scalable products. F
 
 ## Current Exciting Projects
 
+🍪 **[cookie-consent-gdpr](https://github.com/alexgarbacea/cookie-consent-gdpr)** - A lightweight, fully GDPR-compliant cookie consent banner with granular category control, preference management, and automatic script blocking.
+
 ✴️ **[claude-code-on-the-go](https://github.com/alexgarbacea/claude-code-on-the-go)** - A Telegram bot for Claude Code. Control Claude Code sessions from your phone via Telegram.
 
 🤖 **[Automate AI](https://automate-ai.xyz/)** - AI-Powered PC Automation Assistant - [[Releases](https://github.com/alexgarbacea/automate-ai-releases)]
